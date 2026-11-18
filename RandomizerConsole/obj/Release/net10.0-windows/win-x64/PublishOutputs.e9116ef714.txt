@@ -1,0 +1,2 @@
+f:\Munsters Rando\RandomizerConsole\RandomizerConsole\bin\Release\net10.0-windows\win-x64\publish\RandomizerConsole.pdb
+f:\Munsters Rando\RandomizerConsole\RandomizerConsole\bin\Release\net10.0-windows\win-x64\publish\RandomizerConsole.exe

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMpDyO9smQU=",
+  "success": true,
+  "projectFilePath": "f:\\Munsters Rando\\RandomizerConsole\\RandomizerConsole\\RandomizerConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laxba\\.nuget\\packages\\archipelago.multiclient.net\\6.7.1\\archipelago.multiclient.net.6.7.1.nupkg.sha512",
+    "C:\\Users\\laxba\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.12\\microsoft.net.illink.tasks.10.0.12.nupkg.sha512",
+    "C:\\Users\\laxba\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.12\\microsoft.aspnetcore.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\laxba\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\laxba\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.12\\microsoft.netcore.app.runtime.win-x64.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

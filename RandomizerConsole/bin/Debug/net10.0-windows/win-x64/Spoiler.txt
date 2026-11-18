@@ -1,0 +1,192 @@
+Urban StartPark token slide first token has Pyramid 10 Ooze
+Park token slide second token has Iceberg 10 Ooze
+Park token slide fourth token has Sphinx 10 Ooze
+Park token slide fifth token has Shack 10 Ooze
+Park token slide seventh token has HotSprings 10 Ooze
+Park token slide eigth token has Docks 10 Ooze
+Park token slide ninth token has Sphinx 10 Ooze
+Park token slide tenth token has Pyramid 10 Ooze
+Park Blue nerve in sandbox has SkiLift 10 Ooze
+Park Green nerve on monkeybars has Pyramid 10 Ooze
+Park Green nerve in sub area has Shack 10 Ooze
+Park yellow nerve around tree has Tomb 10 Ooze
+Park Red nerve locked by tokens has HotSprings 10 Ooze
+Park Red nerve after tree slide has Sphinx 10 Ooze
+Park silver medal has Docks 10 Ooze
+Park gold medal has Docks 10 Ooze
+Downtown token conveyer room bottom has Downtown 10 Ooze
+Downtown token toy store back left has Docks 10 Ooze
+Downtown token toy store right side has Park 10 Ooze
+Downtown token outside roof jump has Boost Unlocked
+Downtown token outside moving platforms has SkiLift 10 Ooze
+Downtown token bottom of skyscraper has Market 10 Ooze
+Downtown token top of skyscraper has HotSprings 10 Ooze
+Downtown Blue nerve outside has HotSprings 10 Ooze
+Downtown Green nerve in mini park has Oasis 10 Ooze
+Downtown Yellow nerve in toystore has Iceberg 10 Ooze
+Downtown Orange nerve in toystore has Trampoline Unlocked
+Downtown Red nerve locked behind tokens has Oasis 10 Ooze
+Downtown Red top of skyscraper has HotSprings 10 Ooze
+Downtown Red nerve across the rooftops has HotSprings 10 Ooze
+Downtown Yellow nerve in sewers has Sphinx 10 Ooze
+Downtown silver medal has Park 10 Ooze
+Downtown gold medal has SkiLift 10 Ooze
+Docks token by no swimming sign has Mike Jump Unlocked
+Docks token in air front of boat has Iceberg 10 Ooze
+Docks token trampoline token has Iceberg 10 Ooze
+Docks token back of boat has Pyramid 10 Ooze
+Docks token in box by entrance has Tomb 10 Ooze
+Docks token in box in front of boat has Oasis 10 Ooze
+Docks token in box middle deck of boat has Mike Attack Unlocked
+Docks token in box bottom deck of boat has Downtown 10 Ooze
+Docks token inside boat has Pyramid 10 Ooze
+Docks Green nerve by lighthouse has Downtown 10 Ooze
+Docks Green nerve on pier has Oasis 10 Ooze
+Docks Yellow nerve on lighthouse has Market 10 Ooze
+Docks Orange nerve front of boat has SkiLift 10 Ooze
+Docks Red nerve locked by tokens has Sphinx 10 Ooze
+Docks Red nerve inside boat has Oasis 10 Ooze
+Docks Blue nerve in box at spawn has Fling Unlocked
+Docks bronze medal has Tomb 10 Ooze
+Docks gold medal has Downtown 10 Ooze
+Market token on top of buildings has Downtown 10 Ooze
+Market token trampoline ledge behind red nerve has Tomb 10 Ooze
+Market token left of sewer entrance has Arctic Unlocked
+Market token floating box by blue nerve has Park 10 Ooze
+Market token in sewer has Sphinx 10 Ooze
+Market token on Waternoose statue has Pyramid 10 Ooze
+Market token trampoline ledge in front of red nerve has Sphinx 10 Ooze
+Market Red nerve above trampoline has Oasis 10 Ooze
+Market Green nerve by spinning top has SkiLift 10 Ooze
+Market Blue nerve by rivers has Iceberg 10 Ooze
+Market Yellow Nerve before sewer entrance has Iceberg 10 Ooze
+Market Red nerve blocked by tokens has Shack 10 Ooze
+Market Orange nerve on waternoose statue has Oasis 10 Ooze
+Market Yellow nerve in sewers has Iceberg 10 Ooze
+Market Red Nerve on tall rooftop has Docks 10 Ooze
+Market bronze medal has Iceberg 10 Ooze
+Sphinx token by dots button has Sully Jump Unlocked
+Sphinx token left side sphinx base has Shack 10 Ooze
+Sphinx token by speed boost button has Market 10 Ooze
+Sphinx token by fire button has Market 10 Ooze
+Sphinx token on top of pillar has ParkTreeDoor
+Sphinx token by scarab button has Oasis 10 Ooze
+Sphinx token jump off high platform has Downtown 10 Ooze
+Sphinx token by sun button has Oasis 10 Ooze
+Sphinx token inside of sphinx on pillar has Iceberg 10 Ooze
+Sphinx token back of inside of sphinx has Park 10 Ooze
+Sphinx Red nerve locked behind tokens has Sphinx 10 Ooze
+Sphinx Red nerve first inside sphinx has Iceberg 10 Ooze
+Sphinx Green nerve second puzzle has Docks 10 Ooze
+Sphinx Yellow nerve third puzzle has Docks 10 Ooze
+Sphinx bronze medal has SkiLift 10 Ooze
+Sphinx gold medal has Downtown 10 Ooze
+Oasis token speed boost token has Iceberg 10 Ooze
+Oasis token lower cave token has Sphinx 10 Ooze
+Oasis token by snake has DocksCraneBox
+Oasis token behind entrance has HotSprings 10 Ooze
+Oasis token top of waterfall has Sphinx 10 Ooze
+Oasis token top cave token has Pyramid 10 Ooze
+Oasis Blue nerve first lilypads has Docks 10 Ooze
+Oasis Yellow nerve second lilypad has Park 10 Ooze
+Oasis Orange nerve on the trees has HotSprings 10 Ooze
+Oasis Red nerve locked behind tokens has Shack 10 Ooze
+Oasis Red nerve in cave cage has Tomb 10 Ooze
+Oasis bronze medal has Pyramid 10 Ooze
+Oasis silver medal has HotSprings 10 Ooze
+Oasis gold medal has Sphinx 10 Ooze
+Tomb token pillar back left of entrance has Tomb 10 Ooze
+Tomb token by purple box has Sphinx 10 Ooze
+Tomb token climbing platforms has Park 10 Ooze
+Tomb token platform before top of the climb has Market 10 Ooze
+Tomb token top of climb has Downtown 10 Ooze
+Tomb token right side of water room has Downtown 10 Ooze
+Tomb token next to red nerve has Oasis 10 Ooze
+Tomb token left in water room has Market 10 Ooze
+Tomb token by green box in water room has SkiLift 10 Ooze
+Tomb Red nerve above pool at entrance has SkiLift 10 Ooze
+Tomb Green nerve top of outside tomb has Tomb 10 Ooze
+Tomb Blue nerve oustside tomb has Oasis 10 Ooze
+Tomb Orange nerve inside locked by purple box has SkiLift 10 Ooze
+Tomb Red nerve in water room has HotSprings 10 Ooze
+Tomb Orange nerve in water room blocked by green box has Shack 10 Ooze
+Tomb bronze medal has SkiLift 10 Ooze
+Tomb silver medal has Shack 10 Ooze
+Pyramid token on left tree has Tomb 10 Ooze
+Pyramid token speed boost above entrance has Market 10 Ooze
+Pyramid token back right of entrance has Downtown 10 Ooze
+Pyramid token eye level bottom right has Park 10 Ooze
+Pyramid token eye level top trampoline has Market 10 Ooze
+Pyramid token snake level has Pyramid 10 Ooze
+Pyramid token scarab level above entrance has HotSprings 10 Ooze
+Pyramid token level on right has Iceberg 10 Ooze
+Pyramid token water level left side has Shack 10 Ooze
+Pyramid token water level right side has Sphinx 10 Ooze
+Pyramid Red nerve locked behind tokens has Market 10 Ooze
+Pyramid Green nerve in eye level has Oasis 10 Ooze
+Pyramid Blue nerve in eye level has Tomb 10 Ooze
+Pyramid Red nerve in snake level has Docks 10 Ooze
+Pyramid Blue nerve snake level has Park 10 Ooze
+Pyramid Orange nerve in bug level has Market 10 Ooze
+Pyramid Red nerve in water level has Oasis 10 Ooze
+Pyramid silver medal has HotSprings 10 Ooze
+Pyramid gold medal has Market 10 Ooze
+Shack token by orange nerve has Downtown 10 Ooze
+Shack token on log pile has Market 10 Ooze
+Shack token second floating token has Market 10 Ooze
+Shack token first floating token has Iceberg 10 Ooze
+Shack token fourth floating token has SkiLift 10 Ooze
+Shack token third floating token has TombEntrance
+Shack Red nerve blocked by tokens has Park 10 Ooze
+Shack Yellow nerve throwing rocks has Park 10 Ooze
+Shack Yellow nerve platforming above river has Shack 10 Ooze
+Shack Orange nerve on shack roof has SkiLift 10 Ooze
+Shack Red nerve accessed by flinshot has Pyramid 10 Ooze
+Shack Red nerve in cabin has Docks 10 Ooze
+Shack silver medal has Docks 10 Ooze
+Shack gold medal has Tomb 10 Ooze
+Ski lift token behind start has Market 10 Ooze
+Ski lift token bottom of lift zone has Desert Unlocked
+Ski lift token top lift area by red nerve has SkiLift 10 Ooze
+Ski lift token by trampoline in lift area has Tomb 10 Ooze
+Ski lift token first token right slope has Oasis 10 Ooze
+Ski lift token second token left slope has Market 10 Ooze
+Ski lift token first token left slope has Park 10 Ooze
+Ski lift token second token right slope has SkiLift 10 Ooze
+SkiLift Red nerve blocked by tokens has Tomb 10 Ooze
+SkiLift SkiLift Blue nerve on ice has Docks 10 Ooze
+SkiLift Yellow nerve by snow castle has Shack 10 Ooze
+SkiLift Red nerve up high lift area has Downtown 10 Ooze
+SkiLift Red nerve by lift area shortcut has Shack 10 Ooze
+SkiLift bronze medal has Pyramid 10 Ooze
+SkiLift silver medal has SkiLift 10 Ooze
+SkiLift gold medal has Docks 10 Ooze
+Iceberg token at the start has HotSprings 10 Ooze
+Iceberg token second on igloo slide has Park 10 Ooze
+Iceberg token flingshot to fish area has Pyramid 10 Ooze
+Iceberg token by speed boosts has Tomb 10 Ooze
+Iceberg token thin platform has Downtown 10 Ooze
+Iceberg token jumping fish has Downtown 10 Ooze
+Iceberg token inside along path has Shack 10 Ooze
+Iceberg token right inside igloo has Oasis 10 Ooze
+Iceberg token first on igloo slide has Pyramid 10 Ooze
+Iceberg Yellow nerve ice skating has Iceberg 10 Ooze
+Iceberg Orange nerve on platforming fish section has Pyramid 10 Ooze
+Iceberg Red nerve blocked by tokens has Docks 10 Ooze
+Iceberg Red nerve in igloo on ledge has Tomb 10 Ooze
+Iceberg bronze medal has HotSprings 10 Ooze
+Iceberg silver medal has Shack 10 Ooze
+Iceberg gold medal has Sphinx 10 Ooze
+Hotsprings token left side water spout has Docks 10 Ooze
+Hotsprings token by green nerve has HotSprings 10 Ooze
+Hotsprings token water spout by yellow nerve has Sphinx 10 Ooze
+Hotsprings token open air by orange nerve has Iceberg 10 Ooze
+Hotsprings token near speed boost hill has Park 10 Ooze
+Hotsprings token by highest red nerve has Shack 10 Ooze
+Hotsprings token trampoline by red nerve has Sully Attack Unlocked
+HotSprings Yellow nerve above green nerve has Pyramid 10 Ooze
+HotSprings Red nerve blocked by tokens has Park 10 Ooze
+HotSprings Red nerve by water spout 3rd tier has Park 10 Ooze
+HotSprings Red nerve at the highest point has Tomb 10 Ooze
+HotSprings silver medal has Downtown 10 Ooze
+HotSprings gold medal has Shack 10 Ooze
